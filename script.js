@@ -36,7 +36,7 @@ function closeAlert() {
       "Te wiwiwi",
       "Gracias por ser wiwiwi",
       "y no dejes que wiwiwi, porque eres mi wiwiwi",
-	"Morir, hay que fallecer, no frunzas el ceno. en el fondo esta bien. Ya puedes huir, y ya puedes rezar, tarde o temprano en polvo te convertiras",
+	"iba a poner una frase del cadaver de la novia pero no da el espacio",
 	"la escarcha me dejo traumas",
 	"no tengo enie asi que cumple muchos anos",
 	"Y recuerda que eres la fokin wiwiwi",
